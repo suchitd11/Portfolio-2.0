@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    padding: 12px;
+    position: relative;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.menu{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.menu-icon{
+    font-size: 25px;
+}
+
+.mobile-menu{
+    display: none;
+}
+
+.web-menu{
+    display: flex;
+}
+
+.logo{
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 40px;
+    /* color: rgb(128, 90, 213); */
+    color: #232323;
+    /* color: rgb(129, 230, 217); */
+    /* color: #61DAFB; */
+    font-weight: 900;
+    /* letter-spacing: 1px; */
+}
+
+@media only screen and (max-width:720px){
+    .mobile-menu{
+        display: flex;
+    }
+    .web-menu{
+        display: none;
+    }
+    .logo{
+        font-size: 30px;
+    }
+}

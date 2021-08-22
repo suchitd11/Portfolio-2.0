@@ -1,0 +1,20 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.education-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    /* align-items:center; */
+    margin: 24px 0px;
+}
+
+/* @media only screen and (max-width:720px){
+    .education-list{
+        flex-direction: column;
+        justify-content:center;
+    }
+} */
+
