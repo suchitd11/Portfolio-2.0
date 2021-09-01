@@ -49,8 +49,8 @@ export const SkillsData = [
         //     icon : <i class="devicon-firebase-plain colored"></i>,
         // },
         {
-            name : "Git",
-            icon : <i class="devicon-git-plain colored"></i>,
+            name : "ExpressJS",
+            icon : <i class="devicon-express-original colored"></i>,
         },
       ],
     },

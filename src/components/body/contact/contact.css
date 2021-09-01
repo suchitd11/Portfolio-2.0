@@ -32,12 +32,14 @@
     justify-content: center;
     align-items: center;
     border-radius: 10px;
+    
 }
 
 .download a{
     text-decoration: none;
     color: white;
     border-color: #A57BFF;
+    /* color: black; */
 }
 
 .download:hover{
@@ -46,7 +48,7 @@
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition:.5s;
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 2px 2px 5px #888888;
 }
 
 @media only screen and (max-width:720px){

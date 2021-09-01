@@ -5,6 +5,7 @@
     align-items: center;
     margin: 16px 0px;
     padding: 8px 0px;
+    margin-bottom: 35px;
 }
 
 .project-photo{
@@ -19,7 +20,7 @@
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition:.5s;
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 5px 5px 5px #888888;
 }
 
 .project-info{

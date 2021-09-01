@@ -18,7 +18,7 @@ function ProjectCard({project}) {
                     {project.github && (
                         <a className="project-link" href={project.github}>
                             <div className="link-button">
-                            <i class="devicon-github-original colored"></i>GitHub
+                            <i class="devicon-github-original"></i>GitHub
                             </div>
                         </a>
                     )}
@@ -32,9 +32,9 @@ function ProjectCard({project}) {
                     })}
                 </div>
             </div>
-            <img src={project.image} className="project-photo" />
-        </div>
-    )
+            <img src={project.image} className="project-photo" /> 
+        </div> 
+    );
 }
 
 export default ProjectCard
