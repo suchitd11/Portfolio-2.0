@@ -4,7 +4,7 @@ export const WorkData = [
         designation : "Jr. Web Developer",
         dateJoining : "Nov 2021",
         dateEnd : "Present",
-        companyLogo : "https://media-exp1.licdn.com/dms/image/C560BAQEfHEZAotwIOA/company-logo_200_200/0/1616932141328?e=1650499200&v=beta&t=k_-F7IABdaqwEWfTnQrhfSocMW57eFV2bd5icsuo6mY",
+        companyLogo : "https://scontent.fpnq13-1.fna.fbcdn.net/v/t1.6435-9/178803189_102260368691835_3393548883495512960_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=g9nd-dypxO4AX8lmhjg&_nc_ht=scontent.fpnq13-1.fna&oh=00_AT8QM8I5ZGiJozWZC0_dDGz3bq8e-Y12tPbG_Z6eVMgv2A&oe=620ABA17",
         work : "Working with a web development team of the company, I have to maintain the backend of the project with my other teammates."
     },
     {
