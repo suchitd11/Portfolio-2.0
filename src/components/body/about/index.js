@@ -8,7 +8,7 @@ function About() {
                 <br/>
                 <div className="about-info">
                     Hello 👋, I'm <br/><span className="info-name"> Suchit Deshmukh</span>  <br/> <br/> 
-                    A curious web developer, enthusiatic learner and occasionally a competitive programmer! I'm always looking for better, easier and accessible ways to solve the common problems that we face <br/> day-to-day with the help of ever-evolving technologies around us.
+                    A curious web developer, enthusiastic learner and sometimes a competitive programmer! I'm always looking for better, easier and accessible ways to solve the common problems that we face <br/> day-to-day with the help of ever-evolving technologies around us.
                 </div> <br/>
                 {/* <div className="contact-me btn btn-outline-light">
                     <a href="mailto:dsuchit111@gmail.com">GET IN TOUCH</a>
@@ -25,3 +25,4 @@ function About() {
 }
 
 export default About;
+// data-aos="fade-zoom-in" data-aos-easing="ease-in-sine" data-aos-delay="200"

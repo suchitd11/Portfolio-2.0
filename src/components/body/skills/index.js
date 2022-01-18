@@ -8,7 +8,7 @@ function Skills() {
   return (
     <div className="skills">
       <Separator />
-      <label className="section-title">skills</label>
+      <label className="section-title">Skills</label>
       <div className="skills-container">
         {data.map((item) => {
           return (
@@ -28,3 +28,4 @@ function Skills() {
 }
 
 export default Skills;
+// data-aos="fade-right" data-aos-offset="400" data-aos-easing="ease-in-sine"

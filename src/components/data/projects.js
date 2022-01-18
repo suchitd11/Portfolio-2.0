@@ -1,6 +1,15 @@
 export const ProjectData = [
     {
         id : 1,
+        title : "Bingeplex",
+        about : "A web application that lets you know aboout all and trending movies and tv series.",
+        tags : ["React", "Node", "TMDB API"],
+        demo : "https://bingeplex.netlify.app/",
+        github : "https://github.com/suchitd11/BingePlex",
+        image : "https://user-images.githubusercontent.com/56268987/137784176-9a11e3fe-19bf-47be-9219-8b904cc10106.png"
+    },
+    {
+        id : 2,
         title : "TextIt",
         about : "A Realtime chat application.",
         tags : ["React", "Node", "Firebase", "Chat Engine"],
@@ -9,7 +18,7 @@ export const ProjectData = [
         image : "https://user-images.githubusercontent.com/56268987/125660022-6bea1cd2-3639-4f73-a796-942764e477fe.png"
     },
     {
-        id : 2,
+        id : 3,
         title : "Aim To Do",
         about : "A fully functional on the go to do list web app.",
         tags : ["EJS", "Node", "MongoDB"],
@@ -18,7 +27,7 @@ export const ProjectData = [
         image : "https://user-images.githubusercontent.com/56268987/130240675-7ec683df-c6f8-44a7-a617-b8b5ff68c621.png"
     },
     {
-        id : 3,
+        id : 4,
         title : "WeCare",
         about : "Sample Fundraising Website with Payment Gateway Implemented.",
         tags : ["HTML", "CSS", "Bootstrap", "Razorpay"],

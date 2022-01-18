@@ -1,5 +1,13 @@
 export const WorkData = [
     {
+        company : "Zummit Infolabs",
+        designation : "Jr. Web Developer",
+        dateJoining : "Nov 2021",
+        dateEnd : "Present",
+        companyLogo : "https://media-exp1.licdn.com/dms/image/C560BAQEfHEZAotwIOA/company-logo_200_200/0/1616932141328?e=1650499200&v=beta&t=k_-F7IABdaqwEWfTnQrhfSocMW57eFV2bd5icsuo6mY",
+        work : "Working with a web development team of the company, I have to maintain the backend of the project with my other teammates."
+    },
+    {
         company : "Developer Student Clubs",
         designation : "Web Development Coordinator",
         dateJoining : "Aug 2021",

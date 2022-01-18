@@ -6,7 +6,7 @@ function Contact() {
     return (
         <div className="contact">
             <Separator/>
-            <label className="section-title">contact</label>
+            <label className="section-title">Contact</label>
             <div className="contact-container">
                 <div className="contact-left">
                     <p>You can also contact me on any of the social media platform.</p>
@@ -21,3 +21,4 @@ function Contact() {
 }
 
 export default Contact
+// data-aos="fade-right" data-aos-easing="ease-in-sine"

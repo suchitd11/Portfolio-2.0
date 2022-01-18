@@ -6,31 +6,31 @@ function Web() {
         <div className="web">
             <div className="web-option">
                 <a href="#skills">
-                    skills
+                    Skills
                 </a>
             </div>
             <div className="web-option">
                 <a href="#projects">
-                    projects
+                    Projects
                 </a>
             </div>
             <div className="web-option">
                 <a href="#education">
-                    education
+                    Education
                 </a>
             </div>
             <div className="web-option">
                 <a href="#experience">
-                    experience
+                    Experience
                 </a>
             </div>
             <div className="web-option">
                 <a href="#contact">
-                    contact
+                    Contact
                 </a>
             </div>
         </div>
     );
 }
 
-export default Web
+export default Web;

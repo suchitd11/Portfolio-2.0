@@ -38,3 +38,4 @@ function ProjectCard({project}) {
 }
 
 export default ProjectCard
+// data-aos="fade-left" data-aos-offset="400" data-aos-easing="ease-in-sine"

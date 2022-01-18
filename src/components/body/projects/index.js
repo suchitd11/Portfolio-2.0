@@ -9,7 +9,7 @@ function Projects() {
     return (
         <div className="projects">
             <Separator/>
-            <label className="section-title">projects</label>
+            <label className="section-title">Projects</label>
             <div>
                 {data.map((project)=>{
                     return <ProjectCard project = {project} />;
@@ -20,3 +20,4 @@ function Projects() {
 }
 
 export default Projects
+// data-aos="fade-left" data-aos-offset="400" data-aos-easing="ease-in-sine"

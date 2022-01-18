@@ -10,7 +10,7 @@ function Education() {
         <div className="education">
             <Separator/>
             <label className="section-title">
-                education
+                Education
             </label> <br/>
             <div className="education-list">
                 {data.map((item)=>{
@@ -24,3 +24,4 @@ function Education() {
 }
 
 export default Education;
+// data-aos="fade-right" data-aos-offset="400" data-aos-easing="ease-in-sine"

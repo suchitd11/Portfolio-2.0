@@ -10,7 +10,7 @@ function Experience() {
         <div className="work">
             <Separator/>
             <label className="section-title">
-                experience
+                Experience
             </label>
             <div className="work-list">
                 {data.map((item)=>{
@@ -24,3 +24,4 @@ function Experience() {
 }
 
 export default Experience;
+// data-aos="fade-left" data-aos-offset="400" data-aos-easing="ease-in-sine"
