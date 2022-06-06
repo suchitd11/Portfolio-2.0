@@ -1,35 +1,17 @@
 export const ProjectData = [
     {
         id : 1,
-        title : "Bingeplex",
-        about : "A web application that lets you know aboout all and trending movies and tv series.",
-        tags : ["React", "Node", "TMDB API"],
-        demo : "https://bingeplex.netlify.app/",
-        github : "https://github.com/suchitd11/BingePlex",
-        image : "https://user-images.githubusercontent.com/56268987/137784176-9a11e3fe-19bf-47be-9219-8b904cc10106.png"
+        title : "Disney+",
+        about : "A web application that lets you know about all and trending movies and tv series with their trailers.",
+        tags : ["NextJS", "NodeJS", "TMDB API","Firebase"],
+        demo : "https://disney-clone-ndmiypj8n-suchitd11.vercel.app/",
+        github : "https://github.com/suchitd11/Disney-clone",
+        image : "https://user-images.githubusercontent.com/56268987/167251411-b9d8b684-7b7e-474c-8091-7fd130ee059c.png"
     },
     {
         id : 2,
-        title : "TextIt",
-        about : "A Realtime chat application.",
-        tags : ["React", "Node", "Firebase", "Chat Engine"],
-        demo : "https://textit1.netlify.app/",
-        github : "https://github.com/suchitd11/Text-It",
-        image : "https://user-images.githubusercontent.com/56268987/125660022-6bea1cd2-3639-4f73-a796-942764e477fe.png"
-    },
-    {
-        id : 3,
-        title : "Aim To Do",
-        about : "A fully functional on the go to do list web app.",
-        tags : ["EJS", "Node", "MongoDB"],
-        demo : "https://pacific-taiga-38390.herokuapp.com/",
-        github : "https://github.com/suchitd11/todolist-2.0",
-        image : "https://user-images.githubusercontent.com/56268987/130240675-7ec683df-c6f8-44a7-a617-b8b5ff68c621.png"
-    },
-    {
-        id : 4,
         title : "WeCare",
-        about : "Sample Fundraising Website with Payment Gateway Implemented.",
+        about : "Sample Fundraising Website with payment gateway implemented for test payments.",
         tags : ["HTML", "CSS", "Bootstrap", "Razorpay"],
         demo : "https://wecare1.netlify.app/",
         github : "https://github.com/suchitd11/WeCare-PaymentIntegration",
