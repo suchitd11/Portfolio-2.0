@@ -15,15 +15,15 @@ export const SkillsData = [
             name : "JavaScript",
             icon : <i class="devicon-javascript-plain colored"></i>,
         },
-        {
-            name : "NextJS",
-            icon : 
-            <i class="devicon-nextjs-original colored"></i>,
-        },
-        {
-            name : "ReactJS",
-            icon : <i class="devicon-react-plain colored"></i>,
-        },
+        // {
+        //     name : "NextJS",
+        //     icon : 
+        //     <i class="devicon-nextjs-original colored"></i>,
+        // },
+        // {
+        //     name : "ReactJS",
+        //     icon : <i class="devicon-react-plain colored"></i>,
+        // },
         {
             name : "Bootstrap",
             icon : <i class="devicon-bootstrap-plain colored"></i>,
@@ -49,10 +49,10 @@ export const SkillsData = [
             name : "Firebase",
             icon : <i class="devicon-firebase-plain colored"></i>,
         },
-        {
-            name : "ExpressJS",
-            icon : <i class="devicon-express-original colored"></i>,
-        },
+        // {
+        //     name : "ExpressJS",
+        //     icon : <i class="devicon-express-original colored"></i>,
+        // },
       ],
     },
   ];
