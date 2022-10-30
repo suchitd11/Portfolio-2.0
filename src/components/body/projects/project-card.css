@@ -41,11 +41,11 @@
 .tag{
     padding: 4px 8px;
     /* background-color: #61DAFB; */
-    background-color: rgb(165, 123, 255);
+    border: 2px solid rgb(165, 123, 255);
     border-radius: 5px;
     margin-right: 6px;
     margin-bottom: 6px;
-    color: white;
+    color: rgb(165, 123, 255);
     font-size: 16px;
 }
 
