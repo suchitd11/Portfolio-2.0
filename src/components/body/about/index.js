@@ -17,7 +17,7 @@ function About() {
                     <img src={require("../../../assets/about-img.png").default} className="picture"/>
                 </div>
             </div> <br/>
-            <div className="contact-me btn btn-outline-light">
+            <div className="contact-me btn">
                     <a href="mailto:dsuchit111@gmail.com">GET IN TOUCH</a>
             </div>
         </div>
