@@ -8,18 +8,18 @@ export const WorkData = [
     //     work : "Working with a web development team of the company, I have to maintain the backend of the project with my other teammates."
     // },
     {
-        company : "Developer Student Clubs",
-        designation : "Web Development Coordinator",
-        dateJoining : "Aug 2021",
+        company : "Google Developer Student Clubs",
+        designation : "Web Development Team Lead",
+        dateJoining : "Aug 2022",
         dateEnd : "Present",
-        companyLogo : "https://www.gstatic.com/devrel-devsite/prod/v4251591579db922dac0056a2ec747cd3fa6624bdaa65e07557e166abd8873a1f/developers/images/touchicon-180.png",
-        work : "I have to work with my other fellow coordinators to develop some websites for different events and contests. And report the progress regularly to the lead."
+        companyLogo : "https://media-exp1.licdn.com/dms/image/C4D0BAQFyu7rLy4OEEQ/company-logo_200_200/0/1660996026248?e=1672876800&v=beta&t=ze6U-uYL0_csyp1_WiqYoC2ZS-h9G-_R247GUyRoKpg",
+        work : "Currently, me and team of enthusiastic minds working on modifying and updating the current website. As a coordinator for last tenure, I with the team have designed and developed website for Google DSC from scratch using HTML, CSS, Bootstrap."
     },
     {
         company : "CSI SIESGST",
         designation : "Joint Treasurer",
         dateJoining : "Aug 2021",
-        dateEnd : "Present",
+        dateEnd : "July 2022",
         companyLogo : "https://www.csinmamit.in/images/csilogo.png",
         work : "As a treasurer in core council, I have to look mainly for co-ordinating work with different teams for arrangements of various workshops, events and contests."
     },

@@ -1,10 +1,10 @@
 export const ProjectData = [
     {
         id : 1,
-        title : "Disney+",
+        title : "Disney",
         about : "A web application with the information of various movies and series. They are divided into separate sections like top rated movies & popular series which is based on rating sorted & according to trend respectively. Also, user can tap on any show or movie and he/she will be able to read the plot and also play the trailer!",
         tags : ["NextJS", "NodeJS", "TMDB API","Firebase"],
-        demo : "https://disney-clone-ndmiypj8n-suchitd11.vercel.app/",
+        // demo : "https://disney-clone-ndmiypj8n-suchitd11.vercel.app/",
         github : "https://github.com/suchitd11/Disney-clone",
         image : "https://user-images.githubusercontent.com/56268987/167251411-b9d8b684-7b7e-474c-8091-7fd130ee059c.png"
     },
