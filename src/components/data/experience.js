@@ -11,9 +11,9 @@ export const WorkData = [
         company : "Google Developer Student Clubs",
         designation : "Web Development Team Lead",
         dateJoining : "Aug 2022",
-        dateEnd : "Present",
-        companyLogo : "https://media-exp1.licdn.com/dms/image/C4D0BAQFyu7rLy4OEEQ/company-logo_200_200/0/1660996026248?e=1672876800&v=beta&t=ze6U-uYL0_csyp1_WiqYoC2ZS-h9G-_R247GUyRoKpg",
-        work : "Currently, me and team of enthusiastic minds working on modifying and updating the current website. As a coordinator for last tenure, I with the team have designed and developed website for Google DSC from scratch using HTML, CSS, Bootstrap."
+        dateEnd : "May 2023",
+        companyLogo : "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/chapter_banners/LOGO%20GDSC%20SIESGST%20white-01.png",
+        work : "Me and team of enthusiastic minds modified and updated the current website. As a coordinator for last tenure, I with the team have designed and developed website for Google DSC from scratch using HTML, CSS, Bootstrap. Also we have conducted various bootcamps on web technologies."
     },
     {
         company : "CSI SIESGST",

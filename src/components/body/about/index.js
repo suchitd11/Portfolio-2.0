@@ -14,7 +14,7 @@ function About() {
                     <a href="mailto:dsuchit111@gmail.com">GET IN TOUCH</a>
                 </div> <br/> */}
                 <div className="about-photo">
-                    <img src={require("../../../assets/about-img.png").default} className="picture"/>
+                    <img src={require("../../../assets/about.png").default} className="picture"/>
                 </div>
             </div> <br/>
             <div className="contact-me btn">

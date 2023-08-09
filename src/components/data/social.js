@@ -11,17 +11,17 @@ export const SocialData =[
     },
     {
         platform : "Twitter",
-        link : "https://twitter.com/suchit_00",
+        link : "https://twitter.com/suchit_d",
         icon: require("../../assets/icons/twitter.png").default,
     },
     {
         platform : "Instagram",
-        link : "https://www.instagram.com/_er.maratha_/",
+        link : "https://www.instagram.com/suchitd.11/",
         icon: require("../../assets/icons/instagram.png").default,
     },
-    {
-        platform : "Facebbok",
-        link : "https://www.facebook.com/profile.php?id=100010279424972",
-        icon: require("../../assets/icons/facebook.png").default,
-    },
+    // {
+    //     platform : "Facebbok",
+    //     link : "https://www.facebook.com/profile.php?id=100010279424972",
+    //     icon: require("../../assets/icons/facebook.png").default,
+    // },
 ];

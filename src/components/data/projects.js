@@ -3,13 +3,22 @@ export const ProjectData = [
         id : 1,
         title : "Disney",
         about : "A web application with the information of various movies and series. They are divided into separate sections like top rated movies & popular series which is based on rating sorted & according to trend respectively. Also, user can tap on any show or movie and he/she will be able to read the plot and also play the trailer!",
-        tags : ["NextJS", "NodeJS", "TMDB API","Firebase"],
-        // demo : "https://disney-clone-ndmiypj8n-suchitd11.vercel.app/",
-        github : "https://github.com/suchitd11/Disney-clone",
+        tags : ["HTML", "CSS", "Bootstrap","JavaScript"],
+        demo : "https://disney-world.vercel.app/",
+        github : "https://github.com/suchitd11/Disney",
         image : "https://user-images.githubusercontent.com/56268987/167251411-b9d8b684-7b7e-474c-8091-7fd130ee059c.png"
     },
     {
         id : 2,
+        title : "GDSC SIESGST",
+        about : "Me with other my team mates developed Website for our GDSC SIESGST community.",
+        tags : ["NextJS", "NodeJS", "TMDB API","Firebase"],
+        demo : "https://gdsc.siesgst.ac.in/",
+        github : "https://github.com/DSC-SIES-GST/GDSC-2.0",
+        image : "https://user-images.githubusercontent.com/56268987/259440296-a9689d99-f0d6-4baa-a542-43b71afad610.png"
+    },
+    {
+        id : 3,
         title : "PokemonStats",
         about : "This is the web application basically a dashboard where in user can know about the different pokemons. Simply, type any name of the pokemon and hit the enter button, then user can see some information regarding that particular pokemon.",
         tags : ["ReactJS", "PokeAPI"],
@@ -18,7 +27,7 @@ export const ProjectData = [
         image : "https://user-images.githubusercontent.com/56268987/172547181-00a8cbc3-926b-4e52-8b8a-2ed8ed889eb0.png"
     },
     {
-        id : 3,
+        id : 4,
         title : "WeCare",
         about : "Simple Fundraising Website made using Bootstrap from which test payments can be accepted. This website was made for test and educational purposes only.",
         tags : ["HTML", "CSS", "Bootstrap", "Razorpay"],

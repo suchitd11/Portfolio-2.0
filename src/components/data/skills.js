@@ -20,10 +20,10 @@ export const SkillsData = [
         //     icon : 
         //     <i class="devicon-nextjs-original colored"></i>,
         // },
-        // {
-        //     name : "ReactJS",
-        //     icon : <i class="devicon-react-plain colored"></i>,
-        // },
+        {
+            name : "ReactJS",
+            icon : <i class="devicon-react-plain colored"></i>,
+        },
         {
             name : "Bootstrap",
             icon : <i class="devicon-bootstrap-plain colored"></i>,
